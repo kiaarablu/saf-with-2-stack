@@ -1,0 +1,8 @@
+D:\kia prjc\tamrin\saf 2 stack\saf 2 stack\bin\Debug\saf 2 stack.exe.config
+D:\kia prjc\tamrin\saf 2 stack\saf 2 stack\bin\Debug\saf 2 stack.exe
+D:\kia prjc\tamrin\saf 2 stack\saf 2 stack\bin\Debug\saf 2 stack.pdb
+D:\kia prjc\tamrin\saf 2 stack\saf 2 stack\obj\Debug\saf 2 stack.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\saf 2 stack\saf 2 stack\obj\Debug\saf 2 stack.csproj.SuggestedBindingRedirects.cache
+D:\kia prjc\tamrin\saf 2 stack\saf 2 stack\obj\Debug\saf 2 stack.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\saf 2 stack\saf 2 stack\obj\Debug\saf 2 stack.exe
+D:\kia prjc\tamrin\saf 2 stack\saf 2 stack\obj\Debug\saf 2 stack.pdb
